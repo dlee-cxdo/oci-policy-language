@@ -27,7 +27,7 @@
 				},
 				{
 					"name": "keyword.resourcetypes.opl",
-					"match": "(?i)\\b(all-resources|cluster-family|compute-management-family|data-catalog-family|database-family|dns|file-family|instance-family|object-family|virtual-network-family|volume-family)\\b"
+					"match": "(?i)\\b(all-resources|cluster-family|compute-management-family|data-catalog-family|data-science-family|database-family|datasafe-family-resources|dns|email-family|file-family|instance-agent-command-family|instance-agent-family|instance-family|object-family|optimizer-api-family|virtual-network-family|volume-family)\\b"
 				},
 				{
 					"name": "keyword.locations.opl",
